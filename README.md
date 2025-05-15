@@ -1,2 +1,2 @@
-# Axur-WebScrapping-Challenge
-A WebScrapping challenge for the Axur Internship
+#WebScrapping-Challenge
+A WebScrapping challenge for the Internship
